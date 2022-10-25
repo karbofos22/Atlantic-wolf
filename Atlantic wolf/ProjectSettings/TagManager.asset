@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DestroyPanel
+  - Target
+  - Torpedo
+  - LeftTarget
+  - RightTarget
+  - Border
+  - Raycast marker
+  - Left raycast marker
+  - Right raycast marker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Cabin
+  - Water
+  - UI
+  - Projectile
+  - Border
+  - Destroy planels
+  - Player
+  - Rayccast marker
+  - Target
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
